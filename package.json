@@ -10,7 +10,7 @@
     "start": "cross-env NODE_ENV=production node backend/index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "rahul yadav",
   "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
